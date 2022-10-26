@@ -7,4 +7,4 @@
 - Updated the github with the code and readme.
 - Updated the versions of the packages to the respective versions to fix the issue.
 
-- Render app page: https://f2wa66allaparthi.onrender.com
+Render app page: https://f2wa66allaparthi.onrender.com
